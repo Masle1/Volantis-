@@ -1,0 +1,15 @@
+- group: # 分组标题
+  description:  # 分组描述
+  items:
+    - title: Masle # 名称
+      avatar: https://masle.gitee.io/maslebloglib/picture/TOUXIANG/touxiang.png # 头像
+      url: https://masle.top/ # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: 一起向未来奔跑和冒险把！ # 描述
+    - title: Jonny # 名称
+      avatar: https://jonnys.top/img/avatar.png # 头像
+      url: https://jonnys.top/ # 链接
+      screenshot: # 截图
+      keywords: # 关键词
+      description: όνειροdya, fόgudiκολμο, Aix! # 描述
