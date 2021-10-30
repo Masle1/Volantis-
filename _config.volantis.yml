@@ -23,7 +23,7 @@ cover:
       # img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
     - name: 留言板
       icon: fa fa-envelope 
-      url: blog/message/
+      url: blog/message.html/
       rel: nofollow
     - name: 新冠实时疫情图
       icon: iconfont icon-xinguanfangyi
