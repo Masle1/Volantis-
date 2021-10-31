@@ -106,6 +106,8 @@ favicon: /favicon.png
 import:
   link:
     - <link rel="stylesheet" href="//at.alicdn.com/t/font_2902997_0cvji4uckda8.css">
+    - <style>footer.footer a{color:white !important}</style>
+    - <style>.widget.grid .content .grid a{color:var(--color-list) !important}</style>
 
 # Extensions
 plugins:
