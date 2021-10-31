@@ -6,7 +6,6 @@ date: 2021-10-31
 tags: 
   - github action
 author: Jonny
-updated: 2021-10-31
 link: https://jonnys.top/posts/0019/index.html
 description: 使用github action后，配合hexoplusplus插件。让你的博客拥有“后台”，这无疑是一件很方便的事。
 headimg: # 可以设置文章头图

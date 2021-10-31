@@ -23,7 +23,7 @@ cover:
       # img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
     - name: 留言板
       icon: fa fa-envelope 
-      url: blog/message.html/
+      url: blog/message
       rel: nofollow
     - name: 新冠实时疫情图
       icon: iconfont icon-xinguanfangyi
@@ -37,7 +37,7 @@ cover:
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://bu.dusays.com/2021/10/26/a5ef2d470ccfa.png
+    img: /masle.png
   menu:
     - name: 主页
       icon: fas fa-home
@@ -159,7 +159,7 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: https://bu.dusays.com/2021/10/26/a5ef2d470ccfa.png
+        avatar: /masle.png
         name: Masle
         url: https://masle.top/
       # 文章创建日期
