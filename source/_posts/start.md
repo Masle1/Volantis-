@@ -1,6 +1,7 @@
 ---
 title: 关于
 updated: 2021-10-30
+date: 2021-10-30
 tags:
 pin: true
 sidebar: [text, grid, lastupdate, webinfo]

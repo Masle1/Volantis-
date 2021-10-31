@@ -2,6 +2,7 @@
 title: 使用 Github Action 自动部署 Hexo 并在线编辑文章
 categories: Hexo
 updated: 2021-10-31
+date: 2021-10-31
 tags: 
   - github action
 author: Jonny
