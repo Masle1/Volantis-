@@ -1,8 +1,8 @@
 ---
 title: 关于
-date: 2021-10-30 12:50:21
+updated: 2021-10-30
 tags:
-stick: 100
+pin: true
 sidebar: [text, grid, lastupdate, webinfo]
 layout: docs
 ---

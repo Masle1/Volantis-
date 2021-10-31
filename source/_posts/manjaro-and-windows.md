@@ -4,6 +4,7 @@ categories: 电脑系统
 tags: 
   - windows
   - manjaro
+updated: 2021-10-31
 author: Jonny
 link: https://jonnys.top/posts/0003/index.html
 description: 我本人目前在自己的电脑上安装了 Windows 10 和 Manjaro KDE ，主力系统还是 Windows ，毕竟要用到的一些软件尽管在 Linux 上有很棒的替代品，但用着还是很不习惯，再加上 Linux 虽然有 wine ，但 wine 的兼容性也是有限的，诸如以上的还有一些小问题，这里就不一一列举了。
