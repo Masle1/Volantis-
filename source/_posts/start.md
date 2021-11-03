@@ -20,4 +20,7 @@ author: Masle
 
 <!--more-->
 
-如果你想前去我的个人博客，那你可以[点击跳转masle.top](https://masle.top)
+这个站点的诞生具体可以看文章：[一个论坛的诞生](https://masle.top/essay/set-up-forum/)
+
+
+如果你想前去我的个人博客，那你可以[点击跳转masle.top](https://masle.top)，或者在导航栏点击前往个人站。
