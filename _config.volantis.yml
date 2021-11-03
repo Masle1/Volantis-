@@ -47,10 +47,10 @@ navbar:
       rows:  
         - name: 标签
           icon: fa fa-tag
-          url:  /blog/tags/
+          url:  /blog/tags.html/
         - name: 分类
           icon: fa fa-folder
-          url: /blog/categories/
+          url: /blog/categories.html/
         - name: 归档
           icon:	fa fa-server
           url: /archives/
