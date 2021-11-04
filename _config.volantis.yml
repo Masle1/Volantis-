@@ -278,7 +278,7 @@ sidebar:
           url: artitalk/
         - name: 留言板
           icon: fa fa-envelope 
-          url: blog/message/
+          url: blog/message.html/
           rel: nofollow
         - name: 友情链接
           icon: fas fa-link 
