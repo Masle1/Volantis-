@@ -1,7 +1,7 @@
 ---
 title: Hexo 暗色模式深度适配，适用于可切换亮暗色 Hexo 主题
 categories: [HEXO]
-author: jonny
+author: Jonny
 link: https://jonnys.top/posts/0021
 updated: 2021-11-16
 date: 2021-11-16
