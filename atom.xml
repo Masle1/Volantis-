@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老哲的功能站</title>
+  
+  <subtitle>Every cloud has a silver lining</subtitle>
+  <link href="http://volantis.masle.top/atom.xml" rel="self"/>
+  
+  <link href="http://volantis.masle.top/"/>
+  <updated>2021-11-16T00:00:00.000Z</updated>
+  <id>http://volantis.masle.top/</id>
+  
+  <author>
+    <name>Masle</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 暗色模式深度适配，适用于可切换亮暗色 Hexo 主题</title>
+    <link href="http://volantis.masle.top/hexo-dark-mode-adaptation/"/>
+    <id>http://volantis.masle.top/hexo-dark-mode-adaptation/</id>
+    <published>2021-11-16T00:00:00.000Z</published>
+    <updated>2021-11-16T00:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+    
+    
+    <summary type="html">通过引入自定义 css 处理暗色适配的问题。</summary>
+    
+    
+    
+    <category term="HEXO" scheme="http://volantis.masle.top/categories/HEXO/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Python创建二维码程序教程</title>
+    <link href="http://volantis.masle.top/tutorial-of-create-QR-code-program/"/>
+    <id>http://volantis.masle.top/tutorial-of-create-QR-code-program/</id>
+    <published>2021-11-07T00:00:00.000Z</published>
+    <updated>2021-11-07T00:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+    
+    
+    <summary type="html">由于厦门疫情，在建立这个网站之前，我偶尔会写亿些没啥用的小程序（似乎只有创建二维码的那个好用了）</summary>
+    
+    
+    
+    <category term="Python" scheme="http://volantis.masle.top/categories/Python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>静态博客评论配置指南</title>
+    <link href="http://volantis.masle.top/about-blog-comment/"/>
+    <id>http://volantis.masle.top/about-blog-comment/</id>
+    <published>2021-11-03T00:00:00.000Z</published>
+    <updated>2021-11-03T00:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+    
+    
+    <summary type="html">一款基于 Valine 衍生的简洁、安全的评论系统。可以将 Waline 等价成 With backend Valine.</summary>
+    
+    
+    
+    <category term="HEXO" scheme="http://volantis.masle.top/categories/HEXO/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Github Action 自动部署 Hexo 并在线编辑文章</title>
+    <link href="http://volantis.masle.top/github-action-hexoplusplus/"/>
+    <id>http://volantis.masle.top/github-action-hexoplusplus/</id>
+    <published>2021-10-31T00:00:00.000Z</published>
+    <updated>2021-10-31T00:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+    
+    
+    <summary type="html">使用github action后，配合hexoplusplus插件。让你的博客拥有“后台”，这无疑是一件很方便的事。</summary>
+    
+    
+    
+    <category term="Hexo" scheme="http://volantis.masle.top/categories/Hexo/"/>
+    
+    
+    <category term="github action" scheme="http://volantis.masle.top/tags/github-action/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>适用于新手的 Manjaro 和 Windows 双系统安装教程（根据网络上的许多教程以及个人实际经验踩坑整合而成）</title>
+    <link href="http://volantis.masle.top/manjaro-and-windows/"/>
+    <id>http://volantis.masle.top/manjaro-and-windows/</id>
+    <published>2021-10-31T00:00:00.000Z</published>
+    <updated>2021-10-31T00:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+    
+    
+    <summary type="html">我本人目前在自己的电脑上安装了 Windows 10 和 Manjaro KDE ，主力系统还是 Windows ，毕竟要用到的一些软件尽管在 Linux 上有很棒的替代品，但用着还是很不习惯，再加上 Linux 虽然有 wine ，但 wine 的兼容性也是有限的，诸如以上的还有一些小问题，这里就不一一列举了。</summary>
+    
+    
+    
+    <category term="电脑系统" scheme="http://volantis.masle.top/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="windows" scheme="http://volantis.masle.top/tags/windows/"/>
+    
+    <category term="manjaro" scheme="http://volantis.masle.top/tags/manjaro/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>静态网站部署平台之碰壁记</title>
+    <link href="http://volantis.masle.top/html-website-deployment-platform/"/>
+    <id>http://volantis.masle.top/html-website-deployment-platform/</id>
+    <published>2021-10-30T00:00:00.000Z</published>
+    <updated>2021-10-30T00:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+    
+    
+    <summary type="html">本篇文章记录了各种静态部署平台的使用体验-</summary>
+    
+    
+    
+    <category term="HEXO" scheme="http://volantis.masle.top/categories/HEXO/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于</title>
+    <link href="http://volantis.masle.top/start/"/>
+    <id>http://volantis.masle.top/start/</id>
+    <published>2021-10-30T00:00:00.000Z</published>
+    <updated>2021-10-30T00:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote><p>这里可能会作为一个小小社区(中转站)吧，收录各种文章。</p></blockquote><p>好处：让你的文章让<del>更多人看到</del>,<del>你这个网站也没人看呀</del>。</p><p>具体收录方式：</p><ol><li>通过给我邮件（<a href="mailto:&#109;&#x61;&#115;&#108;&#x65;&#48;&#x34;&#x40;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#x2e;&#x63;&#111;&#109;">&#109;&#x61;&#115;&#108;&#x65;&#48;&#x34;&#x40;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#x2e;&#x63;&#111;&#109;</a>）发送（文章链接、标题、类型、文章描述，作者名称）。当然你也可以把文章直接发给我，如果你的文章目前没有托管到网上的话。</li><li>如果你是首次投稿，请将你的（头像地址、博客链接、以及名称）发送给我</li></ol><ul><li>由于这个<del>不是社区的社区</del>，它不算是社区，所以只要不是没有意义的文章，只要投稿了一般都会收录。</li></ul><span id="more"></span><p>这个站点的诞生具体可以看文章：<a href="https://masle.top/essay/set-up-forum/">一个论坛的诞生</a></p><p>如果你想前去我的个人博客，那你可以<a href="https://masle.top/">点击跳转masle.top</a>，或者在导航栏点击前往个人站。</p>]]></content>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这里可能会作为一个小小社区(中转站)吧，收录各种文章。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;好处：让你的文章让&lt;del&gt;更多人看到&lt;/del&gt;,&lt;del&gt;你这个网站也没人看呀&lt;/del&gt;。&lt;/p&gt;
+&lt;p&gt;具体收录方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;通过给我邮件（&lt;a href=&quot;mailto:&amp;#109;&amp;#x61;&amp;#115;&amp;#108;&amp;#x65;&amp;#48;&amp;#x34;&amp;#x40;&amp;#111;&amp;#117;&amp;#116;&amp;#108;&amp;#111;&amp;#111;&amp;#107;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#109;&amp;#x61;&amp;#115;&amp;#108;&amp;#x65;&amp;#48;&amp;#x34;&amp;#x40;&amp;#111;&amp;#117;&amp;#116;&amp;#108;&amp;#111;&amp;#111;&amp;#107;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;）发送（文章链接、标题、类型、文章描述，作者名称）。当然你也可以把文章直接发给我，如果你的文章目前没有托管到网上的话。&lt;/li&gt;
+&lt;li&gt;如果你是首次投稿，请将你的（头像地址、博客链接、以及名称）发送给我&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;由于这个&lt;del&gt;不是社区的社区&lt;/del&gt;，它不算是社区，所以只要不是没有意义的文章，只要投稿了一般都会收录。&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
